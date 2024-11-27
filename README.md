@@ -5,7 +5,7 @@
 To ensure the realism of the scenario, the dataset creators selected a sufficiently large area to demonstrate typical congestion patterns in modern cities. They chose the City of Luxembourg, which covers an area of approximately 156 square kilometers and includes a total of 931 kilometers of roads. The topology of the LuST Scenario is shown in the figure. The dataset utilizes the city's public transport database to obtain information about bus routes. In this scenario, a total of 561 bus stops were introduced, along with 38 bus routes within the city, resulting in a total of 2,240 buses operating daily.
 
 为了确保场景的现实性，数据集的创建者选择了一个足够大的区域，以展示现代城市中典型的拥堵模式。他们选择了卢森堡市，该市面积约为156平方公里，包含总长931公里的道路。LuST场景的拓扑结构如图所示。数据集利用该城市的公共交通数据库获取有关公交线路的信息。在该场景中，共引入了561个公交站点，以及城市内38条公交线路，每天总计运行2240辆公交车。
-![](./imgs/lust.png)
+
 #### Publications:
 
 [L. Codeca, R. Frank, S. Faye and T. Engel,
