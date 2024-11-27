@@ -1,4 +1,4 @@
-# Multiple real-life scenarios simulated by sumo.
+# Multiple real-life scenarios simulated by SUMO.
 
 ## 1. [Luxembourg SUMO Traffic (LuST) Scenario](https://github.com/lcodeca/LuSTScenario)
 
